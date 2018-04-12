@@ -25,6 +25,9 @@ h3  {font-family: Verdana, sans-serif;
     font-size: 21px;
     color: gray;}
 
+video {object-fit: contain;
+}
+
 
 h4 {font-family: Verdana, sans-serif;
     color: gray;
