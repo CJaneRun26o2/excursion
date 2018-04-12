@@ -15,3 +15,13 @@ h1 {font-family: Verdana, sans-serif;
 
 body {background-color: black !important;
     text-align: center;}
+
+h2 {font-family:  Verdana, sans-serif;
+    color: white;
+    font-weight: 300;
+    fot-size: 42 px;
+
+h3 {font-family: Verdana, sans-serif;
+    font-size: 21px;
+    color: gray;
+    }
