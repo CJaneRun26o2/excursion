@@ -5,11 +5,13 @@ h1 {font-family: Verdana, sans-serif;
       background-color: black;
     }
 
-p   {
-    text-align: center;
-    color: green;
+.cta   {
+    font-family: Verdana, sans-serif;
+    color: Aquamarine;
     font-size: 16px;
     background-color: black;
+
   }
 
-body {background-color: black !important;}
+body {background-color: black !important;
+    text-align: center;}
